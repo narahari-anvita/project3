@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background: linear-gradient(#41f5db 0%, #1447fc 100%);
+}
+
+#profile {
+    width: 175px;
+}
+
+#Show {
+    width: 700px;
+}
+
+.About {
+    background-color: pink;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Akaya Telivigala', cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: rebeccapurple;
+}
